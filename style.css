@@ -1,0 +1,93 @@
+body {
+	font-family: 'Roboto Slab', serif;
+	color: #555755;
+}
+
+header {
+	background-color: #f6f6f6;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+}
+
+#painting {
+	text-align: center;
+	background-color: purple;
+	width: 85%;
+	height: 25%;
+	box-shadow: 10px 10px 0px #8d8d8d;
+}
+
+/* Left Box and Vert */
+.canvas {
+	background-color: blue;
+	height: 100%;
+	width: 100%;
+}
+
+#longvert {
+	background-color: black;
+	width: 10px;
+	height: 100%;
+}
+
+#avgbox {
+	width: 30%;
+	height: 40%;
+	background-color: yellow;
+	float:left;
+}
+
+#right {
+	background-color: red;
+	height: 100%;
+	width: 50%;
+	float: right;
+}
+
+/*#vertdiv {
+	width: 10px;
+	height: 100%;
+	background-color: black;
+	float: right;
+}*/
+
+/*
+#horiz {
+	height: 10px;
+	width: 70%;
+	background-color: black;
+	float: right;
+}
+
+#titleblock {
+	float: right;
+	padding-right: 10px;
+	padding-left: 10px;
+	background-color: #f96161;
+}*/
+
+h1 {
+	color: black;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 215%;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+	border-bottom: 1px solid gray;
+}
+
+#imdb {
+	color: #00aedb;
+}
+
+#train {
+	padding-top: 5%;
+	padding-left: 40%;
+	padding-right: 40%;
+}
